@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Kwanseok"
 description              : "An amazing website."
 url                      : "https://kwanseok-k.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
